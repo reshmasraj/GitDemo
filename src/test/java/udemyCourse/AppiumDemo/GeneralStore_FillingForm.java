@@ -33,7 +33,9 @@ public class GeneralStore_FillingForm  extends Capabilities{
 		button.click();
 		
 		
-		
+		System.out.println("Git Demo");
+		System.out.println("Git Demo - code");
+		System.out.println("Git Demo - code2");
 		
 
 	}
